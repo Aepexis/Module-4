@@ -1,0 +1,28 @@
+import Scanner
+
+Class
+dbl var 1
+dbl var 2
+dbl var 3
+dbl var 4
+dbl var 5
+
+
+While loop{
+    Take input
+        f Value 1
+        f Value 2
+        f Value 3
+        f Value 4
+        f Value 5
+       }
+
+
+    Calculation
+        f Total
+        f Average
+        f Maximum
+        f Minimum
+        f Interest (20% on total. convert to int%)
+
+        output.
